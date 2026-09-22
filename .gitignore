@@ -1,0 +1,4 @@
+agrotech.db
+__pycache__/
+tests/__pycache__/
+*.py[cod]
